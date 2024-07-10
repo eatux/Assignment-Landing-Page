@@ -242,3 +242,55 @@ padding: 0px;
     border-radius: 16px;
 
 }
+
+.frame-4{
+    position: absolute;
+    width: 1140px;
+    height: 465px;
+    left: 150px;
+    right: 150px;
+    top: 2900px;
+    
+    
+    }
+    
+    .currnt-target{
+    position: static;
+    width: 1140px;
+    height: 470px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    
+    }
+    .fr-4-outterbox{
+    position: static;
+    width: 852px;
+    height: 115px;
+    
+    }
+    .fr-4-tittle{
+        position: static;
+        width: 852px;
+        height: 39px;
+        color: rgb(13, 19, 33);
+        font-family: Azeret Mono;
+        font-size: 30px;
+        font-weight: 800;
+        letter-spacing: 0%;
+        text-align: center;
+        margin-top: 0px;
+    }
+    .fr-4-caption{
+        position: static;
+        width: 852px;
+        height: 52px;
+        color: rgb(13, 19, 33);
+        font-family: Azeret Mono;
+        font-size: 16px;
+        font-weight: 400;
+        letter-spacing: 0%;
+        text-align: center;
+    
+    }
