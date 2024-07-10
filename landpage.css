@@ -1,10 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
-*{
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
 
-}
 section{
     display: flex;
     flex-direction: column;
@@ -438,7 +433,7 @@ padding: 0px;
         .fr-5-submit-btn{
             position: static;
             width: 120px;
-            height: 50px;
+            height: 57px;
             border-radius: 8px;
             background: rgb(249, 245, 245);
             color: rgb(8, 8, 8);
@@ -447,6 +442,7 @@ padding: 0px;
             font-weight: 500;
             letter-spacing: 0%;
             text-align: center;
+            margin-left: 5px;
             
         }
         .text-holder{
@@ -456,6 +452,7 @@ padding: 0px;
             border: 1px solid rgba(13, 19, 33, 0.15);
             border-radius: 8px;
             background: rgb(255, 255, 255);
+            padding-left: 5px;
         }
 .footer{
     position: absolute;
