@@ -186,3 +186,59 @@ margin-top: 10px;
     color: rgb(13, 13, 13);
     
 }
+
+.frame-3{
+    position: absolute;
+    width: 1140px;
+    height: 777px;
+    left: 150px;
+    right: 150px;
+    top: 2100px;
+  
+    
+}
+.frame-3-outterbox{
+    width: 852px;
+height: 115px;
+padding: 0px;
+
+
+}
+.fr-3-caption{
+    position: static;
+    width: 852px;
+    height: 52px;
+     
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0%;
+    text-align: center;
+
+
+
+}
+.fr-3-tittle{
+    position: static;
+    width: 852px;
+    height: 39px;
+    
+    padding: 0px;
+
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 800;
+    letter-spacing: 0%;
+    text-align: center;
+
+}
+.vframe{
+    position: static;
+    width: 1076px;
+    height: 500px;
+    margin: 80px 0px;
+    border-radius: 16px;
+
+}
