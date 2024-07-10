@@ -13,7 +13,7 @@ html{
     position: absolute;
     background-image: url(img/Hero-bg.png);
     background-repeat: no-repeat;
-    width: 1460px;
+    width: 1480px;
     height: 685px;
 }
 .main-cont{
@@ -456,7 +456,7 @@ padding: 0px;
         }
 .footer{
     position: absolute;
-    width: 1460px;
+    width: 1480px;
     height: 70px;
     left: 0;
     top: 3900px;
