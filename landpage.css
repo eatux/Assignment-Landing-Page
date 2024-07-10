@@ -64,10 +64,11 @@ font-size: 15px;
 font-weight: 600;
 line-height: 23px;
 letter-spacing: 0%;
+color: rgb(255, 255, 255);
 }
 .bth-contact a{
     text-decoration: none;
-    color: rgb(255, 255, 255);
+
 }
 
 .frame-2{
